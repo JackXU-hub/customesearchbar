@@ -17,6 +17,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    //没有图片 自己添加图片
     CustomeSearchBar *custome = [CustomeSearchBar searchBarWithframe:CGRectMake(0, 100, 10, 40)];
     [custome setSearchBarWithTextFieldBgimage:@"baidulogo" WithSearchIcon:@"icon_age_midle" WithButtonTitle:@"取消"];
     custome.delegate = self;

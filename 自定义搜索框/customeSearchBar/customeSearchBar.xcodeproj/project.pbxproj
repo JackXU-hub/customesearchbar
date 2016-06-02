@@ -7,9 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2786A6841CFF28CE00012846 /* android-template.png in Resources */ = {isa = PBXBuildFile; fileRef = 2786A6831CFF28CE00012846 /* android-template.png */; };
-		2786A6861CFF29AD00012846 /* icon_age_midle@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2786A6851CFF29AD00012846 /* icon_age_midle@3x.png */; };
-		2786A6881CFF2A5600012846 /* baidulogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 2786A6871CFF2A5600012846 /* baidulogo.png */; };
 		278FC4E71CFEE9FF005A3263 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 278FC4E61CFEE9FF005A3263 /* main.m */; };
 		278FC4EA1CFEE9FF005A3263 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 278FC4E91CFEE9FF005A3263 /* AppDelegate.m */; };
 		278FC4ED1CFEE9FF005A3263 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 278FC4EC1CFEE9FF005A3263 /* ViewController.m */; };
@@ -40,9 +37,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2786A6831CFF28CE00012846 /* android-template.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "android-template.png"; sourceTree = "<group>"; };
-		2786A6851CFF29AD00012846 /* icon_age_midle@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_age_midle@3x.png"; sourceTree = "<group>"; };
-		2786A6871CFF2A5600012846 /* baidulogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = baidulogo.png; sourceTree = "<group>"; };
 		278FC4E21CFEE9FF005A3263 /* customeSearchBar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = customeSearchBar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		278FC4E61CFEE9FF005A3263 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		278FC4E81CFEE9FF005A3263 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -122,9 +116,6 @@
 				278FC5181CFEEA47005A3263 /* CustomeSearchBar.h */,
 				278FC5191CFEEA47005A3263 /* CustomeSearchBar.m */,
 				278FC4EE1CFEE9FF005A3263 /* Main.storyboard */,
-				2786A6851CFF29AD00012846 /* icon_age_midle@3x.png */,
-				2786A6831CFF28CE00012846 /* android-template.png */,
-				2786A6871CFF2A5600012846 /* baidulogo.png */,
 				278FC4F11CFEE9FF005A3263 /* Assets.xcassets */,
 				278FC4F31CFEE9FF005A3263 /* LaunchScreen.storyboard */,
 				278FC4F61CFEE9FF005A3263 /* Info.plist */,
@@ -262,10 +253,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2786A6861CFF29AD00012846 /* icon_age_midle@3x.png in Resources */,
 				278FC4F51CFEE9FF005A3263 /* LaunchScreen.storyboard in Resources */,
-				2786A6881CFF2A5600012846 /* baidulogo.png in Resources */,
-				2786A6841CFF28CE00012846 /* android-template.png in Resources */,
 				278FC4F21CFEE9FF005A3263 /* Assets.xcassets in Resources */,
 				278FC4F01CFEE9FF005A3263 /* Main.storyboard in Resources */,
 			);
